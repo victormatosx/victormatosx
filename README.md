@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-My name is **Victor Augusto Caixeta Matos**, I’m 21 years old and from Minas Gerais, Brazil.  
+My name is **Victor Matos**, I’m 21 years old and from Minas Gerais, Brazil.  
 I’m passionate about technology and innovation, currently pursuing a degree in **Information Systems**.  
 Co-founder of **J. R. AGSOLUTIONS**, I develop smart solutions for **agribusiness**, creating software and applications that already impact farmers and companies.  
 
