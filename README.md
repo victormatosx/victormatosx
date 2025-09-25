@@ -9,21 +9,21 @@ C0-Fundador da **J. R. AGSOLUTIONS**, desenvolvo soluções inteligentes para o 
 💡 Acredito que a tecnologia não apenas facilita a vida, mas também cria novas oportunidades e soluções para desafios do dia a dia.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/victormatos" target="_blank">
+    <a href="[https://www.linkedin.com/in/victormatos](https://www.linkedin.com/in/victor-matos-11a12622b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
             src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:victor.augusto.caixeta@gmail.com">
+    <a href="mailto:contatovictormatoss@gmail.com">
         <img 
             alt="Email" 
             title="Enviar e-mail" 
             src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/victormatos" target="_blank">
+    <a href="https://github.com/victormatosx" target="_blank">
         <img 
             alt="GitHub" 
             title="Meu GitHub" 
