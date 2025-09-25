@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Victor Matos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo **Victor Augusto Caixeta Matos**, tenho 21 anos e sou natural de Minas Gerais - Brasil.  
 Sou apaixonado por tecnologia e inovação, atualmente cursando **Sistemas de Informação**.  
