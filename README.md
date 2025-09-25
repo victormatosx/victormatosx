@@ -6,6 +6,8 @@ Me chamo **Victor Augusto Caixeta Matos**, tenho 21 anos e sou natural de Minas 
 Sou apaixonado por tecnologia e inovação, atualmente cursando **Sistemas de Informação**.  
 C0-Fundador da **J. R. AGSOLUTIONS**, desenvolvo soluções inteligentes para o **agronegócio**, como softwares e aplicativos que já impactam produtores e empresas.
 
+💡 Acredito que a tecnologia não apenas facilita a vida, mas também cria novas oportunidades e soluções para desafios do dia a dia.
+
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
